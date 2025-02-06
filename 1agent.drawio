@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Страница — 1" id="sZA33Es-PG5EagyIvK63">
-    <mxGraphModel>
+    <mxGraphModel dx="709" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-1" target="BzAIMwK1urhNoIYztoAQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-9" value="Pass&lt;br&gt;system&lt;br&gt;description" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BzAIMwK1urhNoIYztoAQ-6">
+          <mxGeometry x="-0.0321" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-3" target="BzAIMwK1urhNoIYztoAQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-11" value="Model&lt;br&gt;and&lt;br&gt;analyze" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BzAIMwK1urhNoIYztoAQ-7">
+          <mxGeometry x="0.1143" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-3" value="Modeller &amp;amp; Analyst" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-5" value="Threat List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-8" value="1 agent flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-12" target="BzAIMwK1urhNoIYztoAQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-12" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-17" target="BzAIMwK1urhNoIYztoAQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-17" value="Modeller" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-19" target="BzAIMwK1urhNoIYztoAQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-19" value="Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="415" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-21" target="BzAIMwK1urhNoIYztoAQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzAIMwK1urhNoIYztoAQ-21" target="BzAIMwK1urhNoIYztoAQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-21" value="Analyzer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-22" value="Threat list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="418.75" width="80" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BzAIMwK1urhNoIYztoAQ-28" value="2 agent flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
